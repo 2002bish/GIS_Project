@@ -1,0 +1,6 @@
+flask
+rasterio
+numpy
+plotly
+matplotlib
+werkzeug
