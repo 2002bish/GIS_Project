@@ -1,5 +1,5 @@
-Satellite Dashboard for GIS Project
-Overview
+#Satellite Dashboard for GIS Project
+#Overview
 
 The Satellite Dashboard is a GIS-based web application that processes and visualizes satellite image data. Built using Flask and other Python libraries, the dashboard provides users with interactive capabilities to analyze satellite data, focusing on key vegetation indices like NDVI, SAVI, and NDWI. The app supports uploading satellite images in TIFF format, performing analysis, and generating heatmaps of key indices to facilitate environmental monitoring.
 
